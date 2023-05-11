@@ -22,7 +22,6 @@ A personal finance application that helps users create a budget based on their i
 - [Code Examples](#code-examples)
 - [License](#license)
 - [Contact Information](#contact-information)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Description
 
@@ -67,9 +66,3 @@ If you have any questions, concerns, or would like to collaborate on this projec
 
 - Email: jonahrpena@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jonahpena/
-
-## Acknowledgments
-
-Special thanks to the following resources and individuals:
-
-[Under construction]
