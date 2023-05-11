@@ -1,6 +1,6 @@
 ---
 title: "DoMore"
-subtitle: "Efficiently manage your tasks with C# and React"
+subtitle: "Efficiently manage your tasks with this simple to do list application"
 date: 2023-04-26 00:00:00
 description: A Todo List application built using C#, React, and ASP.NET Core to demonstrate the implementation and testing of CRUD operations in a web application.
 featured_image: "/images/demo/toDoHeaderMockup.jp"
@@ -17,7 +17,6 @@ featured_image: "/images/demo/toDoHeaderMockup.jp"
 5. [Code Examples](#code-examples)
 6. [License](#license)
 7. [Contact Information](#contact-information)
-8. [Acknowledgments](#acknowledgments)
 
 ## Project Description
 
@@ -135,7 +134,3 @@ If you have any questions, concerns, or would like to collaborate on this projec
 
 - Email: jonahrpena@gmail.com
 - LinkedIn: [Jonah Pena](https://www.linkedin.com/in/jonahpena/)
-
-## Acknowledgments
-
-(under construction)
