@@ -3,7 +3,19 @@
 <html class="no-js" lang="en">
 
 <head>
+	<style>
+		@media only screen and (max-width: 600px) {
+			.hide-on-mobile {
+				display: none;
+			}
 
+			.reposition-on-mobile {
+
+				margin-top: 80px !important;
+				margin-bottom: 150px !important;
+			}
+		}
+	</style>
 
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -147,13 +159,13 @@
 							<p style="margin-top: 12px !important;"">Software developer who loves building applications, solutions, and relationships.
 							</p>
 						</div>
-						<div style=" flex: 1;" align-items="center">
+						<div class=" hide-on-mobile" style=" flex: 1;" align-items="center">
 								<img style="margin-left: 140px !important; margin-top: -40px !important;"
 									src="images/developer.png" alt="A picture of a software developer">
 						</div>
 
 					</div>
-					<div style="margin-top: -225px !important;">
+					<div class="reposition-on-mobile" style="margin-top: -225px;">
 						<a href="Jonah_Pena_Resume.pdf" download>
 							<button <button
 								style="background-color: #02ae7b; border: none; color: white; padding: 15px 32px; text-decoration: none; font-size: 16px; margin: -90px 2px 200px 2px; cursor: pointer;">
