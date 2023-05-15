@@ -17,6 +17,7 @@
 		}
 	</style>
 
+
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 	Jonah Pena.
@@ -165,11 +166,31 @@
 
 					</div>
 					<div class="reposition-on-mobile" style="margin-top: -225px;">
-						<a href="Jonah_Pena_Resume.pdf" js-no-ajax download
+						<a href="/Jonah_Pena_Resume.pdf" download target="_blank"
 							style="display: inline-block; background-color: #02ae7b; border: none; color: white; padding: 15px 32px; text-decoration: none; font-size: 16px; margin: -90px 2px 200px 2px; cursor: pointer;">
 							Download Resume
 						</a>
 					</div>
+
+					<script>
+						document.querySelector('a[href="/Jonah_Pena_Resume.pdf"]').addEventListener('click', function (e) {
+							e.preventDefault();
+							e.stopPropagation();
+							fetch('/Jonah_Pena_Resume.pdf')
+								.then(resp => resp.blob())
+								.then(blob => {
+									var url = window.URL.createObjectURL(blob);
+									var a = document.createElement('a');
+									a.href = url;
+									a.download = 'Jonah_Pena_Resume.pdf';
+									document.body.appendChild(
+										a
+									); // we need to append the element to the dom -> otherwise it will not work in firefox
+									a.click();
+									a.remove(); //afterwards we remove the element again         
+								});
+						});
+					</script>
 
 					<ul class="socials">
 
@@ -439,6 +460,8 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="/js/plugins-min.js"></script>
 	<script src="/js/personal-min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.2/FileSaver.min.js"></script>
+
 
 
 	<!-- Extra Footer JS Code -->
