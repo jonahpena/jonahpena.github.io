@@ -4,6 +4,7 @@ subtitle: "A Simple Command-Line Poke Restaurant Ordering System"
 date: 2023-04-28 00:00:00
 description: A command-line application for a poke restaurant that allows users to create and manage orders, displaying various menu options, and calculating the order total including tax.
 featured_image:
+permalink: /project/pointOfSales/
 ---
 
 ![](/images/demo/POS/POSSystem.jpg)

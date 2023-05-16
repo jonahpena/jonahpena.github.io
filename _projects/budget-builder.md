@@ -4,6 +4,7 @@ subtitle: "Get a high-level overview of your Finances"
 date: 2023-04-26 00:00:00
 description: A Todo List application built using C#, React, and ASP.NET Core to demonstrate the implementation and testing of CRUD operations in a web application.
 featured_image:
+permalink: /project/budget-builder/
 ---
 
 ![](/images/demo/demo-landscape.jpg)
