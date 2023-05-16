@@ -4,6 +4,7 @@ subtitle: "Efficiently manage your tasks with this simple to do list application
 date: 2023-04-26 00:00:00
 description: A Todo List application built using C#, React, and ASP.NET Core to demonstrate the implementation and testing of CRUD operations in a web application.
 featured_image: "/images/demo/toDoHeaderMockup.jpg"
+permalink: "project/DoMore/"
 ---
 
 ## Table of Contents
