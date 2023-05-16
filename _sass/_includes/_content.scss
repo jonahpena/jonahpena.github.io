@@ -14,7 +14,7 @@
 .single {
 	margin-top: 0;
 	padding-bottom: 40px;
-	background: #282B38;
+	background: #151617;
 
 	@include mq(tabletp) {
 		padding-bottom: 60px;
@@ -28,7 +28,7 @@
 .single-post {
 	position: relative;
 	margin-top: -40px;
-	background: #313544;
+	background: #1C1D22;
 	padding: 16px 20px;
 	@include box-shadow(0, 6px, 16px, rgba(0,0,0,0.05));
 
