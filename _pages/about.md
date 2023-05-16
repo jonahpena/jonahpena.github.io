@@ -17,6 +17,6 @@ As a lifelong learner and avid explorer, I enjoy cycling, mountain biking, golf,
 
 ## Long-Term Goals and Aspirations
 
-My long-term goal is to become a master back-end developer, understanding every aspect of the back end like the back of my hand. Once I have enough experience, I'd love to pursue a role as a manager or director in the software development field. I am laid-back, flexible, and easy to work with, but extremely ambitious and hardworking.
+Once I have enough experience, I'd love to pursue a role as a leader director in the software development field. I'm laid-back, flexible, and easy to work with, but extremely ambitious and hardworking.
 
 My love for finding solutions and solving problems drives my passion for software development. I look forward to continuing to learn, grow, and make a positive impact on the world through technology.
