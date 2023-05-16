@@ -17,6 +17,7 @@ featured_image: "/images/demo/TEK/.jpg"
 5. [Code Examples](#code-examples)
 6. [License](#license)
 7. [Contact Information](#contact-information)
+   \
 
 ## Project Description
 
@@ -172,3 +173,7 @@ If you have any questions, concerns, or would like to collaborate on this projec
 
 - Email: jonahrpena@gmail.com
 - LinkedIn: [Jonah Pena](https://www.linkedin.com/in/jonahpena/)
+
+## Acknowledgments
+
+(under construction)
