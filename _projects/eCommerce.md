@@ -1,13 +1,12 @@
 ---
 title: "L. Dre Shop"
-subtitle: "Shop for merchandise from your favorite Lofi Hip-Hop Artist"
+subtitle: "Shop for merchandise from your favorite Artist"
 date: 2023-04-26 00:00:00
 description: eCommerce Website Built in React.js
-featured_image:
+featured_image: /images/demo/ClothingShop/ClothingShopHeaderMockUp.jpg
 permalink: /project/eCommerce/
 ---
 
-![](/images/demo/ClothingShop/ClothingShopHeaderMockUp.jpg)
 
 ## Table of Contents
 
