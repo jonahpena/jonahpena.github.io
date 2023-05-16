@@ -6,8 +6,6 @@ description: A Todo List application built using C#, React, and ASP.NET Core to 
 featured_image: "/images/demo/toDoHeaderMockup.jpg"
 
 
-![](/images/GIFMockUp/DoMoreGIF.gi)
-
 ## Table of Contents
 
 1. [Project Description](#project-description)
