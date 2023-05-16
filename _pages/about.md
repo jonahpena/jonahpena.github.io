@@ -2,7 +2,7 @@
 title: My Story
 subtitle: From sales to software
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image:
+featured_image: "/images/demo/tamu.jpg"
 ---
 
 ## Who I Am
