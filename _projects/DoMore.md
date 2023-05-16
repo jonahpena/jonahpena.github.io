@@ -49,7 +49,7 @@ This is a simple application that helps users keep track of tasks and mark them 
 
 Once the application is running, you can interact with it through the web interface. To create a new task, click the input and fill out the form with the task description. You can view all your tasks on the main page. To update a task, click directly on the text. To delete a task, click on the "X" to the right of the task description. To mark a task as complete, click the checkbox next to the task.
 
-<div class="gallery" data-columns="1"">
+<div class="gallery" class="empty-class" data-columns="1"">
     <img src="/images/GIFMockUp/DoMoreGif.gif">
 </div>
 
