@@ -118,7 +118,7 @@
 	position: relative;
 	margin-top: -20px;
 	padding: 20px;
-	background: $background-color;
+	background: #1b2024;
 	@include box-shadow(0, 6px, 16px, rgba(0,0,0,0.05));
 	@include transition(all 0.4s cubic-bezier(0.2, 0.3, 0, 1));
 
