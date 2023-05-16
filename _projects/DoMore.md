@@ -5,8 +5,6 @@ date: 2023-04-26 00:00:00
 description: A Todo List application built using C#, React, and ASP.NET Core to demonstrate the implementation and testing of CRUD operations in a web application.
 featured_image: "/images/demo/todoHeaderMockUp.jpg"
 permalink: "project/DoMore/"
-
-
 ---
 
 ## Table of Contents
@@ -22,6 +20,10 @@ permalink: "project/DoMore/"
 ## Project Description
 
 This To-Do List Application was built to practice creating an API using C# and ASP.NET Core, as well as connecting the API to a React frontend. The goal was to practice implementing and testing all CRUD operations to better understand their use in real-world applications.
+
+<div class="gallery" data-columns="1"">
+    <img src="/images/GIFMockUp/DoMoreGIF.gif">
+</div>
 
 ## Technologies and Libraries
 
@@ -49,10 +51,6 @@ This is a simple application that helps users keep track of tasks and mark them 
 ## Usage
 
 Once the application is running, you can interact with it through the web interface. To create a new task, click the input and fill out the form with the task description. You can view all your tasks on the main page. To update a task, click directly on the text. To delete a task, click on the "X" to the right of the task description. To mark a task as complete, click the checkbox next to the task.
-
-<div class="gallery" data-columns="1"">
-    <img src="/images/GIFMockUp/DoMoreGIF.gif">
-</div>
 
 ## Code Examples
 
