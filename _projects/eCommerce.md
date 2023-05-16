@@ -4,7 +4,7 @@ subtitle: "Shop for merchandise from your favorite Artist"
 date: 2023-04-26 00:00:00
 description: eCommerce Website Built in React.js
 featured_image: /images/demo/ClothingShop/ClothingShopHeaderMockUp.jpg
-permalink: /project/eCommerce/
+permalink: "/project/eCommerce/"
 ---
 
 ## Table of Contents
@@ -63,7 +63,7 @@ This is an eCommerce website that helps users buy items from the store owner. It
 
 Once the application is running, you can interact with it through the web interface. To search for items, use the search bar at the top of the page. To add an item to the cart, click the "Add to Cart" button below the item. You should notice the cart quantity # update in the right corner. To view the cart, click the on the quantity # in the header. In the cart, you can adjust item quantities, remove items, or proceed to the checkout process. During the checkout process, enter the required information and click "Confirm Order" to complete the transaction.
 
-<div class="gallery" data-columns="1"">
+<div class="gallery" data-columns="1">
     <img src="/images/GIFMockUp/ClothingShopGIF.gif">
 </div>
 
