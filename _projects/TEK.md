@@ -4,6 +4,7 @@ subtitle: "Shop computer science courses from Together Everyone Kodes (T-E-K)"
 date: 2023-04-26 00:00:00
 description: eCommerce Website Built with React.js, Java, SpringBoot, and MySQL
 featured_image: "/images/demo/TEK/.jpg"
+permalink: /project/TEK/
 ---
 
 ![](/images/demo/TEK/TEKfrontpageMockUp.jpg)
