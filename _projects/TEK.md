@@ -18,7 +18,6 @@ permalink: /project/TEK/
 5. [Code Examples](#code-examples)
 6. [License](#license)
 7. [Contact Information](#contact-information)
-   \
 
 ## Project Description
 
