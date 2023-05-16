@@ -3,8 +3,10 @@ title: "DoMore"
 subtitle: "Efficiently manage your tasks with this simple to do list application"
 date: 2023-04-26 00:00:00
 description: A Todo List application built using C#, React, and ASP.NET Core to demonstrate the implementation and testing of CRUD operations in a web application.
-featured_image: "/images/demo/DoMore/toDoHeaderMockup.jpg"
+featured_image: "/images/demo/todoHeaderMockUp.jpg"
 permalink: "project/DoMore/"
+
+
 ---
 
 ## Table of Contents
@@ -48,8 +50,8 @@ This is a simple application that helps users keep track of tasks and mark them 
 
 Once the application is running, you can interact with it through the web interface. To create a new task, click the input and fill out the form with the task description. You can view all your tasks on the main page. To update a task, click directly on the text. To delete a task, click on the "X" to the right of the task description. To mark a task as complete, click the checkbox next to the task.
 
-<div class="gallery" class="empty-class" data-columns="1"">
-    <img src="/images/GIFMockUp/DoMoreGif.gif">
+<div class="gallery" data-columns="1"">
+    <img src="/images/GIFMockUp/DoMoreGIF.gif">
 </div>
 
 ## Code Examples
