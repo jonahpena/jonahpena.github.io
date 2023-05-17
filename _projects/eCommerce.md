@@ -113,7 +113,7 @@ const onRemove = (product) => {
 
 ## License
 
-This project is licensed under the MIT License. For more information, please see the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License.
 
 ## Contact Information
 
