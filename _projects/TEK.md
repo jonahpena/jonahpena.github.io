@@ -165,7 +165,7 @@ public class CourseController {
 
 ## License
 
-This project is licensed under the MIT License. For more information, please see the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License.
 
 ## Contact Information
 
@@ -173,7 +173,3 @@ If you have any questions, concerns, or would like to collaborate on this projec
 
 - Email: jonahrpena@gmail.com
 - LinkedIn: [Jonah Pena](https://www.linkedin.com/in/jonahpena/)
-
-## Acknowledgments
-
-(under construction)
