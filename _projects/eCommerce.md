@@ -4,9 +4,8 @@ subtitle: "Shop for merchandise from your favorite Artist"
 date: 2023-04-26 00:00:00
 description: eCommerce Website Built in React.js
 featured_image: /images/demo/ClothingShop/ClothingShopHeaderMockUp.jpg
-permalink: /project/eCommerce/
+permalink: "/project/eCommerce/"
 ---
-
 
 ## Table of Contents
 
@@ -21,6 +20,10 @@ permalink: /project/eCommerce/
 ## Project Description
 
 This React Shopping Cart application was built with the goal of solidifying my understanding in React.js and ReactStrap. Throughout the development process, I gained experience with various key React concepts, such as:
+
+<div class="gallery" data-columns="1">
+    <img src="/images/GIFMockUp/ClothingShopGIF.gif">
+</div>
 
 #### Components:
 
